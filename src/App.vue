@@ -4,7 +4,7 @@
     <section class="hero">
       <div class="hero-content">
         <div class="logo-container">
-          <img src="/ES-CIRC.png" alt="esTODOMADERA..." class="logo-image">
+          <img src="/ES-CIRC.png" alt="es...TODOMADERA" class="logo-image">
         </div>
         
         <div class="event-info">
@@ -213,7 +213,7 @@
       <div class="container">
         <div class="footer-content">
           <div class="logo-container">
-            <img src="/ES-CIRC.png" alt="esTODOMADERA..." class="logo-image">
+            <img src="/ES-CIRC.png" alt="es...TODOMADERA" class="logo-image">
           </div>
           <div class="footer-links">
             <a :href="eventData.website" target="_blank" rel="noopener">
@@ -247,7 +247,7 @@ export default {
     // Datos del evento - PERSONALIZA ESTOS DATOS
     const eventData = ref({
       title: '¡Nos complace invitarte!',
-      message: 'Es un honor para nosotros invitarte a la inauguración de esTODOMADERA... Celebremos juntos este nuevo comienzo y descubre nuestra exclusiva colección de estanterías comerciales de alta calidad.',
+      message: 'Es un honor para nosotros invitarte a la inauguración de es...TODOMADERA. Celebremos juntos este nuevo comienzo y descubre nuestra exclusiva colección de estanterías comerciales de alta calidad.',
       date: 'Sábado 18 de Octubre, 2025',
       time: '18:00 hrs',
       location: 'Pje. San Lorenzo 1261, Santiago del Estero',
