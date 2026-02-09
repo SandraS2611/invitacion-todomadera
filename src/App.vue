@@ -87,7 +87,7 @@
                 <circle cx="12" cy="10" r="3" stroke="currentColor" stroke-width="2"/>
               </svg>
             </div>
-            <h3>Ubicación</h3>
+            <h3>Dirección</h3>
             <p>{{ eventData.location }}</p>
             <button @click="openLocation" class="action-button">
               Ver en Mapa
