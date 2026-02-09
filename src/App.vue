@@ -250,7 +250,7 @@ export default {
       message: 'Es un honor para nosotros invitarte a la inauguración de esTODOMADERA... Celebremos juntos este nuevo comienzo y descubre nuestra exclusiva colección de estanterías comerciales de alta calidad.',
       date: 'Sábado 18 de Octubre, 2025',
       time: '18:00 hrs',
-      location: 'Santiago del Estero, Argentina',
+      location: 'Pje. San Lorenzo 1261, Santiago del Estero',
       locationUrl: 'https://maps.app.goo.gl/M3YdBh1ESA9cU5PZ9', // PERSONALIZAR CON DIRECCIÓN EXACTA
       dressCode: {
         style: 'Elegante Casual',

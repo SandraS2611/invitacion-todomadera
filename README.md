@@ -153,7 +153,7 @@ Una vez desplegado en Vercel, tu invitación estará disponible en:
 
 ## 📝 Licencia
 
-Este proyecto es de uso libre para Es... TODOMADERA
+Este proyecto es de uso libre para esTODOMADERA...
 
 ## 🤝 Soporte
 
@@ -161,4 +161,4 @@ Para soporte o consultas sobre la invitación, contacta al desarrollador.
 
 ---
 
-Desarrollado con ❤️ para **Es... TODOMADERA**
+Desarrollado con ❤️ para **esTODOMADERA...**
